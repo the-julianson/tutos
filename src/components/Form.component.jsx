@@ -1,5 +1,7 @@
 import React from "react";
 
+
+
 const Form = () => {
   return (
     <form>
@@ -29,6 +31,7 @@ const Form = () => {
           ></input>
         </div>
       </div>
+      <input type="submit" value="Save" className="btn btn-primary"  />
     </form>
   );
 };
