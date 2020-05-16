@@ -1,5 +1,27 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Instalar node
+
+https://nodejs.org/en/
+
+# Crear react APP
+$ npx create-react-app tuapp
+
+# Instalar bootstrap  
+(https://react-bootstrap.github.io/getting-started/introduction)
+
+npm install react-bootstrap bootstrap
+
+copiar al inicio del index.js 
+`import 'bootstrap/dist/css/bootstrap.min.css';`
+
+# curso avanzado de GIT en un solo blog
+
+https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
